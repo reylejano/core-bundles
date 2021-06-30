@@ -3,7 +3,7 @@ helm:
   releaseName: rancher-monitoring
   repo: https://charts.rancher.io
   chart: rancher-monitoring
-  version: 9.4.200
+  version: 14.5.100
   values:
     grafana:
       additionalDataSources:
